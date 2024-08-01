@@ -37,3 +37,6 @@
 ### 合作推广
 与本地企业和服务提供商合作，进行联合推广，共享收益。
 
+## 结构图
+<img width="1646" alt="image" src="https://github.com/user-attachments/assets/f09ef8ae-907c-480d-a01f-30ba699a2543">
+
